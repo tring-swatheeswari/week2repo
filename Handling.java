@@ -8,7 +8,7 @@ public class Handling {
         } catch (ArithmeticException e) {
             System.out.println("Error: Cannot divide by zero!");
         } finally {
-            System.out.println("This block is executed regardless of an exception.");
+            System.out.println("This block is executed regardless of an ");
         }
     }
 }
